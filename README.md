@@ -20,8 +20,7 @@ Implementation:
 
 
 
-<img width="1065" height="554" alt="Screenshot 2025-08-07 143817" src="https://github.com/user-attachments/assets/69762632-1dec-4244-80fa-25ccdef1eb22" />
-
+<img width="1673" height="870" alt="Screenshot 2025-08-07 143817" src="https://github.com/user-attachments/assets/a89e1605-a6de-4786-8668-e0c75766686b" />
 
 
 
