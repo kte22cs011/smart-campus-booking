@@ -2,6 +2,26 @@
 
 A complete, full-stack web application that digitizes and streamlines the venue booking process for colleges. Built with React.js, Tailwind CSS, and Firebase.
 
+
+Implementation: 
+
+<img width="869" height="774" alt="Screenshot 2025-08-07 142706" src="https://github.com/user-attachments/assets/9a298cbd-22f4-458d-80fd-e04b5d37d47f" />
+
+
+<img width="790" height="455" alt="Screenshot 2025-08-07 142719" src="https://github.com/user-attachments/assets/26c64aed-1910-41e9-8f6b-a9829699847a" />
+
+
+<img width="1643" height="870" alt="Screenshot 2025-08-07 143707" src="https://github.com/user-attachments/assets/d9e5c1d0-4c71-409d-9bdb-2a9c54b42968" />
+
+
+
+<img width="1065" height="554" alt="Screenshot 2025-08-07 143839" src="https://github.com/user-attachments/assets/69762632-1dec-4244-80fa-25ccdef1eb22" />
+
+
+
+![Uploading Screenshot 2025-08-07 143817.png…]()
+
+
 ## Features
 
 ### 🔐 User Authentication
